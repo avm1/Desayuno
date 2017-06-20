@@ -1,14 +1,10 @@
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="es.avm.desayuno" version="1.0.0">
   <name>Desayuno</name>
   <description>Desayuno</description>
-  <author email="a.vilches@parlamento-and.es">Lista</author>
+  <author email="a.vilches@parlamento-and.es">Desayuno</author>
   <content src="index.html"/>
-  <platform name="android"></platform>
-  
 
-  <preference name="SplashScreen" value="screen" />
-  <preference name="SplashScreenDelay" value="3000" />
-  <splash src="splash.png" width="640" height="960" />  
+  <platform name="android"></platform>
   
       
   <preference name="permissions" value="none"/>
